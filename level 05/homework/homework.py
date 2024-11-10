@@ -4,7 +4,7 @@ print("The current year is " + str(current_year))
 
 # 2
 country = "USA"
-print("You are from " + str(country))
+print("You are from " + country)
 
 # 3
 height = 180
