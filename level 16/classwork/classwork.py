@@ -11,7 +11,6 @@ aqvs_martvis_mowmoba=False
 yavs_manqana=True
 print(aqvs_martvis_mowmoba or yavs_manqana)
 
-# 3) შექმენით ცვლადი და შემდეგ დააბდეითეთ ის ახალი მნიშვნელობით.
-
-
-
+# 3) შექმენით ცვლადი და შემდეგ დააბდეითეთ ის ახალი მნიშვნელობით
+name="giorgi"
+name="ani"
